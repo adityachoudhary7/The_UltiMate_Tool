@@ -4,10 +4,21 @@ Here's a tidy and concise format for your README file:
 
 The UltiMate Tool is a multi-utility desktop application that provides various tools to streamline your tasks. It offers a user-friendly interface with a left sidebar containing navigation icons for easy access to different tools.
 
+## Tools and Libraries
+
+The UltiMate Tool utilizes the following tools and libraries:
+
+- *PyQt6:* Provides a smooth and intuitive user interface, including navigation icons and toggle buttons for enhanced usability.
+- *os and sys:* Interact with the operating system, access file paths, and manipulate the Python runtime environment.
+- *win32com.client:* Allows interaction with COM objects, offering Windows-specific functionalities.
+- *random and ctypes:* Used for generating random numbers and working with C-compatible data types in Python, respectively.
+- *time:* Facilitates time-related operations in the application.
+
 ## Features
 
 - **Toggle Button**: The toggle button at the top of the left toolbar allows you to switch between tool icons and text representation for enhanced usability.
 
+## Getting Started
 ### Tool 1: Rename Files
 
 - This tool allows you to rename multiple Excel files supporting formats such as .xlsx, .xlsb, and .csv.
@@ -66,3 +77,16 @@ The UltiMate Tool is a multi-utility desktop application that provides various t
 ![The UltiMate Tool SS4](https://github.com/adityachoudhary7/The_UltiMate_Tool/assets/88120344/c623a887-9f35-4540-b35c-4414d775eb9d)
 
 
+
+Clone the repository: git clone https://github.com/adityachoudhary7/The_UltiMate_Tool.git
+
+### Contributing
+Contributions to the The UltiMate Tool are welcome! If you have any suggestions, enhancements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+License
+The The UltiMate Tool is open source and released under the MIT License.
+
+Contact
+For any questions or inquiries, please contact Aditya Choudhary at adityachoudhary.professional@gmail.com .
+
+Thank you for using the The UltiMate Tool! We hope it enhances your office productivity and simplifies your daily tasks.
