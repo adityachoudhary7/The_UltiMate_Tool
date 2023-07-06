@@ -60,3 +60,9 @@ The UltiMate Tool is a multi-utility desktop application that provides various t
   - Press the "Merge" button to initiate the merging process.
 
 **Note:** Please ensure to check the example folder name in the input field placecard for each tool. Be patient and wait for the popups indicating task completion.
+![The UltiMate Tool SS1](https://github.com/adityachoudhary7/The_UltiMate_Tool/assets/88120344/cbb01c44-41b0-4ebd-909b-7dd28a0ce790)
+![The UltiMate Tool SS2](https://github.com/adityachoudhary7/The_UltiMate_Tool/assets/88120344/aca1bafa-d78e-4afd-b71a-9b377412dd4b)
+![The UltiMate Tool SS3](https://github.com/adityachoudhary7/The_UltiMate_Tool/assets/88120344/4f56d5d6-bbbe-4b19-8489-82b1f6ffe22b)
+![The UltiMate Tool SS4](https://github.com/adityachoudhary7/The_UltiMate_Tool/assets/88120344/c623a887-9f35-4540-b35c-4414d775eb9d)
+
+
